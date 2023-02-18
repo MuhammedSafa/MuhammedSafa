@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @MuhammedSafa<br>👀 I’m interested in coding<br>🌱 I’m currently learning coding<br><br><br><br>
+👋 Hi, I’m @MuhammedSafa<br>👀 I’m interested in coding<br>🌱 I’m currently learning coding<br><br><br>
 
 
 # 💻 Tech Stack:
